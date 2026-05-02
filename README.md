@@ -4,7 +4,7 @@
  
 ---
  
-### 🙋‍♀️ About Me
+### About Me
  
 - 🎓 Studying **Software Engineering** at Universidade Católica de Salvador (UCSAL)
 - 💼 IT Intern at **Vitalmed** — systems development & technical support
@@ -32,7 +32,7 @@
 </p>
 ---
  
-### 📌 Featured Projects
+### 📌 Projects
  
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -42,14 +42,6 @@
 | [GeoCalc](https://github.com/amandabonfim05/GeoCalc) | Calculates perimeter and area of geometric shapes — OOP practice | Java |
 | [Chatbot](https://github.com/amandabonfim05/Chatbot) | Chatbot developed to optimize service and support flows | HTML |
  
----
- 
-### 📊 GitHub Stats
- 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandabonfim05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabonfim05&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 ---
  
 ### 📬 Contact
