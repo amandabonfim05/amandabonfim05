@@ -27,9 +27,6 @@ About Me:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-📌 Featured Projects
-ProjectDescriptionTechApp-marketMarket app where users manage shopping lists with item quantities and total valueFlutter / C++LearnHubLearning management system where students publish and organize summaries by themeHTMLContactKeeperContact agenda app that stores up to 50 contacts with personal infoJavaGeoCalcCalculates perimeter and area of geometric shapes — OOP practiceJavaChatbotChatbot developed to optimize service and support flowsHTML
-
 📊 GitHub Stats
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amandabonfim05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
