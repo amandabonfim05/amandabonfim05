@@ -26,10 +26,10 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [App-market](https://github.com/amandabonfim05/App-market) | Market app where users manage shopping lists with item quantities and total value | Flutter / C++ |
-| [LearnHub](https://github.com/amandabonfim05/LearnHub) | Learning management system where students publish and organize summaries by theme | HTML |
+| [LearnHub](https://github.com/amandabonfim05/LearnHub) | Learning management system where students publish and organize summaries by theme | Python |
 | [ContactKeeper](https://github.com/amandabonfim05/ContactKeeper) | Contact agenda app that stores up to 50 contacts with personal info | Java |
 | [GeoCalc](https://github.com/amandabonfim05/GeoCalc) | Calculates perimeter and area of geometric shapes — OOP practice | Java |
-| [Chatbot](https://github.com/amandabonfim05/Chatbot) | Chatbot developed to optimize service and support flows | HTML |
+| [Chatbot](https://github.com/amandabonfim05/Chatbot) | Chatbot developed to optimize service and support flows | Node.JS |
  
 ---
  
