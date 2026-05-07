@@ -36,20 +36,38 @@ Software Engineering student building projects, exploring concepts and turning i
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-UFBA-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter UFBA"/><br/>
-      <sub><b>Flutter Developer</b></sub><br/>
-      <sub>Universidade Federal da Bahia</sub>
+      <img src="https://img.shields.io/badge/Flutter_Dev-UFBA-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br/>
+      <sub><b>Mobile Apps with Flutter</b></sub><br/>
+      <sub>Universidade Federal da Bahia</sub><br/>
+      <sub>30h · Oct 2024</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><br/>
-      <sub><b>AWS Cloud</b></sub><br/>
-      <sub>Amazon Web Services</sub>
+      <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
+      <sub><b>AWS Cloud Practitioner</b></sub><br/>
+      <sub>AWS Treina Brasil</sub><br/>
+      <sub>12h · May 2026</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Generative_AI-Santander_x_AWS-EC0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Generative AI"/><br/>
-      <sub><b>Generative AI</b></sub><br/>
-      <sub>Santander + AWS</sub>
+      <img src="https://img.shields.io/badge/AWS-AI_Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
+      <sub><b>AI Fundamentals</b></sub><br/>
+      <sub>AWS Treina Brasil</sub><br/>
+      <sub>2h · May 2026</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
+      <sub><b>Cloud Fundamentals</b></sub><br/>
+      <sub>AWS Treina Brasil</sub><br/>
+      <sub>3h · Apr 2026</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/iFood-& CAMP_Event-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"/><br/>
+      <sub><b>& CAMP Event</b></sub><br/>
+      <sub>iFood</sub><br/>
+      <sub>Mar 2026</sub>
+    </td>
+    <td></td>
   </tr>
 </table>
 
