@@ -2,7 +2,7 @@
 
 # Hi there! I'm Amanda 🤎
 
-### 💻 Software Engineering Student | Mobile & Back-End Developer in Training
+### 💻 Software Engineering Student | Mobile & Back-End Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;Back-End+in+progress+%E2%9A%99%EF%B8%8F;Cloud+%26+AI+enthusiast+%E2%98%81%EF%B8%8F;Always+learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
